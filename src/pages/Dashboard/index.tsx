@@ -1,7 +1,8 @@
 import React from 'react'
+import { Title } from './styles'
 
 const Dashboard: React.FC = () =>{
-    return <h1> DashBoard</h1>
+    return <Title> DashBoard</Title>
 }
 
 export default Dashboard;
