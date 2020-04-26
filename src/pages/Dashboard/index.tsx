@@ -6,7 +6,6 @@ import { Link } from 'react-router-dom';
 
 import api from '../../services/api';
 import logoImg from '../../assets/logo.svg';
-import Repository from '../Repository';
 
 interface Repository{
   //Não é necessario colocar a tipagem do que o repositorio vai ter
